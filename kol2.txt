@@ -1,0 +1,4 @@
+nova memorija za **v
+operatorite
+iskluchoci
+virtual
